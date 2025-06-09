@@ -8,7 +8,7 @@
 - **Lumina Server**: backend com Node que fiz para os estudantes praticarem verbos HTTP.
 - **exabyte**: sistema gamificado para educação, sobretudo para as aulas de informática que ministro.
 - **alura-geek**: e‑commerce estático HTML/CSS/JS (ver aqui – GitHub Pages)
-- **Calculadora Eval: Projeto que desenvolvi para aprender mais sobre a função eval() do JavaScript.
+- **Calculadora Eval**: Projeto que desenvolvi para aprender mais sobre a função eval() do JavaScript.
 
 
 ### 🧰 Tech que uso
