@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Olá, sou o Lucas Sbaraini
 
-<!--
-**lucaoverso/lucaoverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Professor de Informática e entusiasta de programação.  
+🚀 Desenvolvo projetos gamificados (HTML, CSS, JS, Node, Prisma, Roblox).  
+🌱 Atualmente trabalhando no meu projeto de **Exabyte** (Plataforma Web).
 
-Here are some ideas to get you started:
+### 📂 Projetos
+- **Lumina Server**: backend com Node que fiz para os estudantes praticarem verbos HTTP.
+- **exabyte**: sistema gamificado para educação, sobretudo para as aulas de informática que ministro.
+- **alura-geek**: e‑commerce estático HTML/CSS/JS (ver aqui – GitHub Pages)
+- **Calculadora Eval: Projeto que desenvolvi para aprender mais sobre a função eval() do JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🧰 Tech que uso
+HTML • CSS • JavaScript • Node.js • Prisma • SQL • Roblox Studio (Lua) • Git • Notion 
+
+📬 Me encontre também no [LinkedIn](https://linkedin.com/lucaoverso).
