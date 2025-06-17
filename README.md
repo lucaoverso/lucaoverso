@@ -14,4 +14,4 @@
 ### 🧰 Tech que uso
 HTML • CSS • JavaScript • Node.js • Prisma • SQL • Roblox Studio (Lua) • Git • Notion 
 
-📬 Me encontre também no [LinkedIn](https://linkedin.com/lucaoverso).
+📬 Me encontre também no [LinkedIn](https://linkedin.com/lucassbaraini).
